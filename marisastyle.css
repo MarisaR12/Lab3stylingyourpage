@@ -1,0 +1,29 @@
+h2,h3,h4,h5, h6{
+background-color: #B0C4DE		;
+  color:#663399;
+  font-family:monospace;
+  border: 2px;
+  border-style:solid;
+}
+hr{
+  color: #71a26d	;
+}
+body{
+  background-color: #f0e5ff		;
+  color: black;
+  font-family:monospace;
+  border: 10px;
+  border-style:solid;
+  border-color:white;
+  
+
+}
+p{
+  background-color: #ffbdfd;
+  font-family:Franklin Gothic Medium;
+  border:5px;
+  border-style: dashed;
+  border-color:#b8d7ff ;
+  border-radius: 5%;
+
+}
